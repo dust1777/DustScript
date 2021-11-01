@@ -1,4 +1,4 @@
-### ✨ Olá, I'm DustScript, Member Of CROW Labs ✨
+### ✨ Olá, I'm DustScript, Member Of BANK 5 ✨
 
 <div>
   <a href="https://github.com/DustScript">
