@@ -1,4 +1,4 @@
-### ✨ Olá, I'm DustScript, Member Of BANK 5 ✨
+### ✨ Olá, I'm BANK5, Member Of BANK 5 ✨
 
 <div>
   <a href="https://github.com/DustScript">
